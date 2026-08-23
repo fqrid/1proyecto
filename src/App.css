@@ -57,26 +57,39 @@
 
 .header-nav {
   display: flex;
-  gap: 16px;
+  gap: 12px;
 }
 
-.nav-link {
-  color: rgba(255, 255, 255, 0.8);
-  text-decoration: none;
+.nav-link-btn {
+  background: none;
+  border: none;
+  color: rgba(255, 255, 255, 0.75);
+  font-family: 'Inter', sans-serif;
   font-size: 14px;
-  font-weight: 500;
-  transition: color 0.2s;
+  font-weight: 600;
+  padding: 8px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease;
 }
 
-.nav-link:hover {
+.nav-link-btn:hover {
   color: #ffffff;
+  background-color: rgba(255, 255, 255, 0.08);
+}
+
+.nav-link-btn.active {
+  color: #ffffff;
+  background-color: rgba(255, 255, 255, 0.16);
+  box-shadow: inset 0 -2px 0 #ffffff;
+  border-radius: 8px 8px 0 0;
 }
 
 /* Hero Banner */
 .app-hero {
   background: linear-gradient(135deg, #002266 0%, #003399 50%, #0044cc 100%);
   color: #ffffff;
-  padding: 60px 24px;
+  padding: 70px 24px;
   text-align: center;
   position: relative;
   overflow: hidden;
@@ -96,6 +109,35 @@
 .hero-content {
   max-width: 800px;
   margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+}
+
+.hero-cta-btn {
+  background-color: #ffffff;
+  color: #003399;
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  border: none;
+  padding: 12px 28px;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  transition: all 0.2s ease;
+  margin-top: 8px;
+}
+
+.hero-cta-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.15);
+  background-color: #f8fafc;
+}
+
+.hero-cta-btn:active {
+  transform: translateY(0);
 }
 
 .hero-tag {
