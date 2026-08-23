@@ -1,0 +1,102 @@
+[
+  {
+    "id": "PQRS-001",
+    "solicitante": "Juan Carlos Pérez",
+    "categoria": "Agua",
+    "descripcion": "Fuga de agua potable de gran magnitud en la acera frente a la nomenclatura Calle 14 # 5-23. El agua lleva corriendo más de 24 horas.",
+    "estado": "Resuelto",
+    "fechaRadicacion": "2026-08-10",
+    "plazoLegal": "15 días hábiles",
+    "respuestaOficial": "El equipo técnico de acueducto asistió el día 12 de agosto, realizando el cambio de la válvula averiada y reparando la fuga de agua potable."
+  },
+  {
+    "id": "PQRS-002",
+    "solicitante": "María Consuelo Gómez",
+    "categoria": "Basura",
+    "descripcion": "Acumulación masiva de residuos sólidos en la esquina del parque principal debido a que el camión recolector no pasó en el horario nocturno habitual.",
+    "estado": "En trámite",
+    "fechaRadicacion": "2026-08-21",
+    "plazoLegal": "10 días hábiles",
+    "respuestaOficial": null
+  },
+  {
+    "id": "PQRS-003",
+    "solicitante": "Andrés Felipe Restrepo",
+    "categoria": "Alumbrado",
+    "descripcion": "Tres lámparas LED consecutivas de alumbrado público se encuentran apagadas desde hace una semana, dejando la carrera 45 totalmente a oscuras.",
+    "estado": "En trámite",
+    "fechaRadicacion": "2026-08-19",
+    "plazoLegal": "15 días hábiles",
+    "respuestaOficial": null
+  },
+  {
+    "id": "PQRS-004",
+    "solicitante": "Diana Patricia Cardona",
+    "categoria": "Agua",
+    "descripcion": "Baja presión extrema en el suministro de agua en todo el sector del Barrio El Limonar, impidiendo el llenado de tanques elevados.",
+    "estado": "Resuelto",
+    "fechaRadicacion": "2026-08-05",
+    "plazoLegal": "15 días hábiles",
+    "respuestaOficial": "Se identificó una obstrucción por sedimentos en la tubería secundaria del sector. Los técnicos realizaron la purga y el servicio quedó restablecido con presión óptima."
+  },
+  {
+    "id": "PQRS-005",
+    "solicitante": "Carlos Mario Henao",
+    "categoria": "Alumbrado",
+    "descripcion": "Poste de energía de concreto inclinado peligrosamente en un ángulo de 75 grados tras ser colisionado por un vehículo de carga. Riesgo inminente de caída.",
+    "estado": "Resuelto",
+    "fechaRadicacion": "2026-08-15",
+    "plazoLegal": "5 días hábiles",
+    "respuestaOficial": "Se procedió al cambio inmediato del poste averiado en coordinación con la empresa de energía eléctrica nacional, garantizando la seguridad en la zona."
+  },
+  {
+    "id": "PQRS-006",
+    "solicitante": "Patricia Elena Ortiz",
+    "categoria": "Basura",
+    "descripcion": "Punto crítico de acumulación de escombros y basura en el separador vial de la Avenida Central. Residentes de otros barrios están arrojando desechos de manera clandestina.",
+    "estado": "En trámite",
+    "fechaRadicacion": "2026-08-22",
+    "plazoLegal": "15 días hábiles",
+    "respuestaOficial": null
+  },
+  {
+    "id": "PQRS-007",
+    "solicitante": "Jorge Eliecer Ruiz",
+    "categoria": "Agua",
+    "descripcion": "Colapso del sistema de alcantarillado en la Calle 8 con Carrera 10, provocando inundación de aguas residuales en los sótanos de tres viviendas.",
+    "estado": "Resuelto",
+    "fechaRadicacion": "2026-08-08",
+    "plazoLegal": "10 días hábiles",
+    "respuestaOficial": "Personal de alcantarillado realizó limpieza con camión de succión-presión (vactor), retirando obstrucción de residuos sólidos no biodegradables."
+  },
+  {
+    "id": "PQRS-008",
+    "solicitante": "Camila Andrea Rojas",
+    "categoria": "Basura",
+    "descripcion": "Solicitud de ajuste en los horarios del camión recolector de basura para el sector comercial, ya que el paso actual coincide con las horas de mayor congestión vehicular.",
+    "estado": "En trámite",
+    "fechaRadicacion": "2026-08-18",
+    "plazoLegal": "15 días hábiles",
+    "respuestaOficial": null
+  },
+  {
+    "id": "PQRS-009",
+    "solicitante": "Luis Fernando Tobón",
+    "categoria": "Alumbrado",
+    "descripcion": "Lámpara de alumbrado público parpadea constantemente durante toda la noche (efecto estroboscópico), causando molestias de sueño a los vecinos más cercanos.",
+    "estado": "Resuelto",
+    "fechaRadicacion": "2026-08-12",
+    "plazoLegal": "15 días hábiles",
+    "respuestaOficial": "Se sustituyó la bombilla defectuosa y el arrancador del circuito por un nuevo sistema LED de luz continua."
+  },
+  {
+    "id": "PQRS-010",
+    "solicitante": "Gloria Inés Gutiérrez",
+    "categoria": "Agua",
+    "descripcion": "Presencia de olores fétidos y agua turbia saliendo de los grifos domésticos del sector norte, sospecha de filtración cruzada en la red.",
+    "estado": "En trámite",
+    "fechaRadicacion": "2026-08-23",
+    "plazoLegal": "5 días hábiles",
+    "respuestaOficial": null
+  }
+]
